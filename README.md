@@ -1,6 +1,6 @@
 ## 👾About Me
 
-Greetings!! I'm **Aminu**, a Computer Science graduate with a passion for Offensive Security. Learning and a drive to excel in this exciting field is what keeps me going. I enjoy honing my skilss by solving problems, working on projects and learning from experienced professionals.
+Greetings!! I'm **Aminu**, a Computer Science graduate and an aspiring penetration tester. Learning and a drive to excel in this exciting field is what keeps me going. I enjoy honing my skilss by solving problems, working on projects and learning from experienced professionals.
 
 ## 🌱Learning
 
