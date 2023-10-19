@@ -31,7 +31,7 @@ Here's a list of technologies and tools I'm currenly working with:
 
 ## 🤳Connect with me:
 
-I enjoy connecting with fellow developers, tech enthusiasts, and anyone passionate about the intersection of technology and innovation. Feel free to reach out to me via:
+I enjoy connecting with fellow developers, tech enthusiasts, and anyone passionate about Cybersecurity. Feel free to reach out to me via:
 
 - **LinkedIn**: ***[Aminu Wali](https://www.linkedin.com/in/aminuwali)***
 - **Twitter**: ***[@BB_Wizzle](https://twitter.com/bb_wizzle)***
