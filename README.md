@@ -8,7 +8,7 @@ Anything and everything Offensive Security!! I try and stay up to date with the 
 
 ## 🔎Current Focus
 
-I'm currently preparing for the Security+ and eJPT certifications while getting as much hands-on practice as possible through various courses and hands-on labs + CTFs on platforms like [TryHackMe](https://tryhackme.com/p/Wizzle.OG) and HackTheBox. I'm also in the process of improving my programming skills and documenting my journey on Github.
+I'm currently preparing for the eJPT & PJPT certifications while getting as much hands-on practice as possible through various courses and hands-on labs + CTFs on platforms like [TryHackMe](https://tryhackme.com/p/Wizzle.OG) and HackTheBox. I'm also in the process of improving my programming skills and documenting my journey on Github.
 
 ## 💻Tech Stack
 
