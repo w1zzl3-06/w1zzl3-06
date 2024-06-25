@@ -1,6 +1,6 @@
 ## 👾About Me
 
-Greetings!! I'm **Aminu**, a Computer Science graduate and an aspiring penetration tester. Learning and a drive to excel in this exciting field is what keeps me going. I enjoy honing my skills by solving problems, working on projects and learning from experienced professionals.
+Greetings!! I'm **Aminu**, an aspiring penetration tester and Cybersecurity advocate. Learning and a drive to excel in this exciting field is what keeps me going. I enjoy honing my skills by solving problems, working on projects and learning from experienced professionals.
 
 ## 🌱Learning
 
@@ -8,7 +8,7 @@ Anything and everything Offensive Security!! I try and stay up to date with the 
 
 ## 🔎Current Focus
 
-I'm currently preparing for the eJPT & PJPT certifications while getting as much hands-on practice as possible through various courses and hands-on labs + CTFs on platforms like [TryHackMe](https://tryhackme.com/p/Wizzle.OG) and HackTheBox. I'm also in the process of improving my programming skills and documenting my journey on Github.
+I am constantly improving my skills through various courses and hands-on labs + CTFs on platforms like [TryHackMe](https://tryhackme.com/p/Wizzle.OG) and HackTheBox. 
 
 ## 💻Tech Stack
 
