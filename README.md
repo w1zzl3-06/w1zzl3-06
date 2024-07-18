@@ -1,6 +1,6 @@
 ## 👾About Me
 
-Greetings!! I'm **Aminu**, an aspiring penetration tester and Cybersecurity advocate. Learning and a drive to excel in this exciting field is what keeps me going. I enjoy honing my skills by solving problems, working on projects and learning from experienced professionals.
+Greetings!! I'm **Aminu**, a Penetration Tester and overall Cybersecurity Enthusiast. Learning and a drive to excel in this exciting field is what keeps me going. I enjoy honing my skills by solving problems, working on projects and learning from experienced professionals.
 
 ## 🌱Learning
 
